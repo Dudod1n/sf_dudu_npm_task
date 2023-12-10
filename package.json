@@ -1,5 +1,5 @@
 {
-  "name": "nodejs_1",
+  "name": "sf_dudu_npm_task",
   "version": "1.0.0",
   "description": "desctiption text",
   "main": "index.js",
@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "jquery": "^3.7.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dudod1n/sf_dudu_npm_task.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dudod1n/sf_dudu_npm_task/issues"
+  },
+  "homepage": "https://github.com/Dudod1n/sf_dudu_npm_task#readme"
 }
